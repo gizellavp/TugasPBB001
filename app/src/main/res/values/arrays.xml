@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kelas">
+        <item>XIIR1</item>
+        <item>XIIR2</item>
+        <item>XIIR3</item>
+        <item>XIIR4</item>
+        <item>XIIR5</item>
+        <item>XIIT1</item>
+        <item>XIIT2</item>
+        <item>XIIT3</item>
+        <item>XIIT4</item>
+    </string-array>
+</resources>

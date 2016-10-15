@@ -42,7 +42,8 @@
 
     <RadioGroup
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:id="@+id/RadioGrup">
 
         <RadioButton
             android:layout_width="wrap_content"
@@ -67,6 +68,7 @@
     <Spinner
         android:layout_width="349dp"
         android:layout_height="wrap_content"
+        android:entries="@array/kelas"
         android:id="@+id/spinner"
         android:layout_below="@+id/radioButtonLaki"
         android:layout_alignParentLeft="true"
